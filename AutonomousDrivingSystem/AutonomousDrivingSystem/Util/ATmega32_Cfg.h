@@ -11,7 +11,11 @@
 
 #include "Std_Types.h"
 
+<<<<<<< HEAD
 #define F_CPU 16000000UL
+=======
+#define F_CPU 16000000UL
+>>>>>>> c3da444850ce6e33419849b101803a462f1c92d3
 
 #define PORTA_DIR_REG			((volatile uint8*)0x3AU)
 #define PORTA_INP_REG			((volatile uint8*)0x39U)
